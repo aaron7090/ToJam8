@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\RadialControl.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Main.cs" Line="220" Column="46" />
+      <File FileName="Assets\Scripts\Units\Unit.cs" Line="41" Column="11" />
+      <File FileName="Assets\Scripts\Dashboard.cs" Line="49" Column="3" />
+      <File FileName="Assets\Scripts\PlayerOneResource.cs" Line="7" Column="38" />
+      <File FileName="Assets\Scripts\PlayerTwoResource.cs" Line="47" Column="4" />
+      <File FileName="Assets\Scripts\PlayerOneHealth.cs" Line="7" Column="27" />
+      <File FileName="Assets\Scripts\PlayerTwoHealth.cs" Line="27" Column="18" />
+      <File FileName="Assets\Scripts\Units\MediumMeleeUnit.cs" Line="15" Column="29" />
+      <File FileName="Assets\Scripts\RadialControl.cs" Line="46" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

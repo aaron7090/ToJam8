@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerOneHealth.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Units\Unit.cs" Line="39" Column="3" />
+      <File FileName="Assets\Scripts\Main.cs" Line="33" Column="32" />
+      <File FileName="Assets\Scripts\Units\HeavyBruiserUnit.cs" Line="39" Column="4" />
+      <File FileName="Assets\Scripts\PlayerOneHealth.cs" Line="17" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
